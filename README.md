@@ -8,5 +8,5 @@
  <a href="https://buymeacoffee.com/priyanshdotxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/buymeacoffee.png" alt="Sponser" style="width: 175px !important;" ></a>  <a href="mailto:hello@priyanshxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/email.png" alt="email" style="width: 175px !important;" ></a> </div>
 <div align="center"> <a href="https://discord.com/users/838764339942785051"><img src="https://discord.c99.nl/widget/theme-3/838764339942785051.png" alt="Discord Profile" height="45"></a>  <a href="https://discord.com/invite/VWUh7KuCwy"><img src="https://discord.com/api/guilds/1013114166963339434/widget.png?style=banner2" alt="Discord Server" height="45"></a> </div>
 
-## Profile Views
+
 <div> <a href="https://githubcom/priyanshdotxyz><img src="https://gpvc.arturio.dev/priyanshdotxyz"> </a> </div>
