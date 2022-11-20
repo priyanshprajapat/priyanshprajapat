@@ -2,7 +2,7 @@
 
 <div align="center"> <b>Languages & tools I use</b> <br> <a href="https://web.dev/learn/html/"><img src="https://cdn.priyansh.xyz/emojis/html.png" width="30" height="30"></a> <a href="https://web.dev/learn/css/"><img src="https://cdn.priyansh.xyz/emojis/css.png" width="30" height="30"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://cdn.priyansh.xyz/emojis/js.png" width="30" height="30"></a> <a href="https://www.python.org/"><img src="https://cdn.priyansh.xyz/emojis/py.png" width="30" height="30"></a> </div> 
 
-<img src="https://cdn.priyansh.xyz/src/div-line.gif height="50%">
+<div> <img src="https://cdn.priyansh.xyz/src/div-line.gif height="50%"> </div>
 
 <div align="center"> <a href="https://www.priyansh.xyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/priyanshdotxyz.png" style="width: 175px !important;" ></a> <a href="https://instagram.com/priyanshdotxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/instagram.png" alt="instagram" style="width: 175px !important;" ></a> <a href="https://twitter.com/priyanshdotxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/twitter.png" alt="twitter" style="width: 175px !important;" ></a> <br>
  <a href="https://buymeacoffee.com/priyanshdotxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/buymeacoffee.png" alt="Sponser" style="width: 175px !important;" ></a>  <a href="mailto:hello@priyanshxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/email.png" alt="email" style="width: 175px !important;" ></a> </div>
