@@ -8,5 +8,5 @@
 <p align="center"> <a href="https://instagram.com/priyanshdotxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/instagram.png" alt="instagram" style="width: 175px !important;" ></a></p>
 <p align="center"> <a href="https://twitter.com/priyanshdotxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/twitter.png" alt="twitter" style="width: 175px !important;" ></a></p>
 <p align="center"> <a href="https://buymeacoffee.com/priyanshdotxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/buymeacoffee.png" alt="Sponser" style="width: 175px !important;" ></a>
-<p align="center"> <a href="mailto:hello@priyanshxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/email.png" alt="email" style="width: 350px !important;" ></a></p>
+<p align="center"> <a href="mailto:hello@priyanshxyz" target="_blank"><img src="https://cdn.priyansh.xyz/banner/email.png" alt="email" style="width: 175 !important;" ></a></p>
 <div align="center"> <a href="https://discord.com/users/838764339942785051"><img src="https://discord.c99.nl/widget/theme-3/838764339942785051.png" alt="Discord Profile" height="60"></a>  <a href="https://discord.com/invite/VWUh7KuCwy"><img src="https://discord.com/api/guilds/1013114166963339434/widget.png?style=banner2" alt="Discord Server" height="60"></a> </div>
