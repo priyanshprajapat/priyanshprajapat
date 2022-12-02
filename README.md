@@ -8,4 +8,4 @@
 
 
 <div align="center"> <a href="https://discord.com/users/838764339942785051"><img src="https://discord.c99.nl/widget/theme-3/838764339942785051.png" alt="Discord Profile" height="45"></a>  <a href="https://discord.com/invite/VWUh7KuCwy"><img src="https://discord.com/api/guilds/1013114166963339434/widget.png?style=banner2" alt="Discord Server" height="45"></a> </div> <br>
-<p align="center"><a href="https://github.com/priyanshisadev"><img src="https://gpvc.arturio.dev/priyanshisadev"></a> </p>
+<p align="center"><a href="https://github.com/priyanshprajapat"><img src="https://gpvc.arturio.dev/priyanshprajapat"></a> </p>
