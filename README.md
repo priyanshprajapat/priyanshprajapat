@@ -8,7 +8,7 @@
 <div align="center"> <br> <a href="https://priyansh.is-a.dev/"><img src="https://priyansh.pages.dev/c/emojis/web.gif" width="30" height="30"></a> <a href="https://instagram.com/thepriyanshprajapat"><img src="https://priyansh.pages.dev/c/emojis/instagram.png" width="30" height="30"></a> <a href="https://twitter.com/oyepriyansh"><img src="https://priyansh.pages.dev/c/emojis/twitter.png" width="30" height="30"></a> <a href="https://youtube.com/@oyepriyansh"><img src="https://priyansh.pages.dev/c/emojis/youtube.png" width="30" height="30"></a> <a href="mailto:priy@nsh.is-a.dev"><img src="https://priyansh.pages.dev/c/emojis/mail.png" width="30" height="30"></a> </div> 
 
 
- <div align="center"> <a href="https://discord.com/users/838764339942785051"><img src="https://discord.c99.nl/widget/theme-3/838764339942785051.png" alt="Discord Profile" height="45"></a>  <a href="https://discord.com/invite/VWUh7KuCwy"><img src="https://discord.com/api/guilds/1013114166963339434/widget.png?style=banner2" alt="Discord Server" height="45"></a> </div> <br>
+ <div align="center"> <a href="https://discord.com/users/838764339942785051"><img src="https://discord.c99.nl/widget/theme-3/838764339942785051.png" alt="Discord Profile" height="45"></a>  <a href="https://discord.com/invite/VWUh7KuCwy"><img src="https://invidget.switchblade.xyz/VWUh7KuCwy" alt="Discord Server" height="45"></a> </div> <br>
 <div align="center">
  <a href="https://github.com/sponsors/priyanshprajapat"><img src="https://priyansh.pages.dev/c/images/sponser.png" height="30"></a> <br>
 </div>
