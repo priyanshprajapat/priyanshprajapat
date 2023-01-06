@@ -10,7 +10,7 @@
 
  <div align="center"> <a href="https://discord.com/invite/VWUh7KuCwy"><img src="https://invidget.switchblade.xyz/VWUh7KuCwy" alt="Discord Server" height="72" width="500"></a> </div> <br>
 <div align="center">
-  <kbd> <a href="https://github.com/sponsors/priyanshprajapat"><img src="https://priyansh.pages.dev/c/images/sponser.png" height="30"></a> <kbd> <br>
+  <kbd><a href="https://github.com/sponsors/priyanshprajapat"><img src="https://priyansh.pages.dev/c/images/sponser.png" height="30"></a><kbd> <br>
 </div>
 
 
